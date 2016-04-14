@@ -1,0 +1,45 @@
+{
+	"packages": [{
+		"name": "had-mickmad",
+		"maintainer": "Hackaday / Michele Perla",
+		"websiteURL": "https://hackaday.com/mickmad",
+		"email": "michele.perla.90@gmail.com",
+		"help": {
+			"online": "https://hackaday.io/project/8007"
+		},
+		"platforms": [{
+			"name": "HACK - HackAday Cortex Kit - SAMD21E",
+			"architecture": "samd",
+			"version": "1.0.0",
+			"category": "Hackaday / Michele Perla",
+			"url": "https://mickmad.github.io/hack/release/mickmad-samd-1.0.0.zip",
+			"archiveFileName": "mickmad-samd-1.0.0.zip",
+			"checksum": "SHA-256:735d14964e2fed38cc8114d3e1c09739dc92e0204f86f2d603b3b3fe73945294",
+			"size": "2402168",
+			"help": {
+				"online": "https://hackaday.io/project/8007"
+			},
+			"boards": [{
+				"name": "HACK"
+			}],
+			"toolsDependencies": [{
+				"packager": "arduino",
+				"name": "arm-none-eabi-gcc",
+				"version": "4.8.3-2014q1"
+			}, {
+				"packager": "arduino",
+				"name": "bossac",
+				"version": "1.6.1-arduino"
+			}, {
+				"packager": "arduino",
+				"name": "openocd",
+				"version": "0.9.0-arduino"
+			}, {
+				"packager": "arduino",
+				"name": "CMSIS",
+				"version": "4.0.0-atmel"
+			}]
+		}],
+		"tools": []
+	}]
+}
