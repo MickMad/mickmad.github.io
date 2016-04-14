@@ -13,9 +13,9 @@
 			"version": "1.0.0",
 			"category": "Hackaday / Michele Perla",
 			"url": "https://mickmad.github.io/hack/release/had-mickmad-samd-1.0.0.zip",
-			"archiveFileName": "mickmad-samd-1.0.0.zip",
-			"checksum": "SHA-256:735d14964e2fed38cc8114d3e1c09739dc92e0204f86f2d603b3b3fe73945294",
-			"size": "2402168",
+			"archiveFileName": "had-mickmad-samd-1.0.0.zip",
+			"checksum": "SHA-256:820c118f9ab48940ae503cfc8a7808e4199beec905a8e177d1f95592c7185b75",
+			"size": "2251967",
 			"help": {
 				"online": "https://hackaday.io/project/8007"
 			},
