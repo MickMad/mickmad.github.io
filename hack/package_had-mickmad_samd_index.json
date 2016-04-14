@@ -2,7 +2,7 @@
 	"packages": [{
 		"name": "had-mickmad",
 		"maintainer": "Hackaday / Michele Perla",
-		"websiteURL": "https://hackaday.com/mickmad",
+		"websiteURL": "https://hackaday.io/mickmad",
 		"email": "michele.perla.90@gmail.com",
 		"help": {
 			"online": "https://hackaday.io/project/8007"
